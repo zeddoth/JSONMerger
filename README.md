@@ -18,3 +18,6 @@ Important :
 Folder need to have the sames files names in order to work :
 
 ![image](https://github.com/user-attachments/assets/7d8cbe73-2fc9-44a7-901a-aee905fcf62d)
+
+
+This tool was builded using PyInstaller and with help of AI
